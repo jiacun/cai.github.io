@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 兄弟连 郑佳材
+   permalink: baidu.com
 ---
 ## 近期
 
