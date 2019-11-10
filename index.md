@@ -2,6 +2,7 @@
 layout: page
 title: 兄弟连 郑佳材
 ---
+<a src='baidu.com'>百度</a>
 ## 近期
 {% for post in site.posts limit:5 %}
 
