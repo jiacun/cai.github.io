@@ -3,7 +3,6 @@ layout: page
 title: 兄弟连 郑佳材
 ---
 ## 近期
-<a src='baidu.com'>连接</a>
 {% for post in site.posts limit:5 %}
 
 - [{{ post.title }}]({{ post.url }}), *{{ post.date | date_to_string }}*
